@@ -7,7 +7,7 @@ I believe that we should democratize AI to the next level and provide a way for 
 ## Professional Journey
 
 ### 🚀 Senior Architect & AI Lead
-Recently at **Fargro**, I built a team of AI and horticulture experts to optimize plant yields in controlled environments. We successfully helped **Thanet Earth** increase yields from 6% to 27%.
+Recently at **Fargro**, I built a team of AI and horticulture experts to optimize plant yields in controlled environments. We focused on helping growers like **Thanet Earth** increase yields from 6% to 27%.
 
 ### 🏛️ Enterprise Infrastructure
 I led the team that hosted the largest **SharePoint** implementation in Europe for the **Financial Ombudsman**.
