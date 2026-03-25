@@ -1,7 +1,7 @@
 # Jonathan Smart – CV
 
 **Azure Engineering Leader & Platform/SRE Specialist**  
-[GitHub Profile](https://github.com/SmartEst74) | Availability: Immediate
+[GitHub Profile](https://github.com/SmartEst74) | [Linked-in Profile](https://get.here.now/jon) | Availability: Immediate
 
 ## Professional Profile
 
