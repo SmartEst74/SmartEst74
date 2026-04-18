@@ -16,7 +16,7 @@ Passionate about operational excellence, **FinOps** cost optimisation, and enabl
 ## Professional Experience
 
 ### Solution Architect / Context Engineer / Blockchain Developer  
-**Solana Blockchain (Sole Trader)**  
+**Solana Blockchain (Freelance)**  
 *Dec 2024 – Present*
 
 - Designed and operated high-performance, distributed systems infrastructure for decentralised applications, leveraging **Kubernetes/containerisation** patterns and parallel processing for reliability under high transaction loads.  
