@@ -71,6 +71,6 @@ Passionate about operational excellence, **FinOps** cost optimisation, and enabl
 **Microsoft Certified: Azure Solutions Architect Expert** – 2020  
 **Microsoft Certified Technology Specialist: SharePoint 2010 Application Development** – 2012  
 
-**BTEC National Diploma in Computer Studies** – 1990–1992  
+**BTEC National Diploma in Computer Studies** – 1992–1994
 
 **References available upon request**
